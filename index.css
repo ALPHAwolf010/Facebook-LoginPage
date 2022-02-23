@@ -1,0 +1,32 @@
+
+.row{
+    margin-top:150px; ;
+}
+
+h1{
+    
+    font-size:70px;
+    color:rgb(54, 99, 224);
+}
+#btn1{
+    width:100%;
+    margin-top:10px;
+}
+input{margin-top:10px;}
+
+form{
+     background-color:white;
+     padding:20px;
+     border-radius:10px;
+}
+a{
+    text-decoration:none;
+    margin-top:35px;
+    display:block;
+}
+body{background-color:whitesmoke;}
+
+#btn2{
+    margin-left: 15%;
+    margin-right: 10%;
+}
